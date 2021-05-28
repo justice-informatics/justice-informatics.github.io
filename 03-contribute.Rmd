@@ -1,0 +1,6 @@
+# Instructions for Contributors {#contribute}
+
+Here are the instructions for contributing to this resource. 
+
+- rmd file but without header content; starts with main heading with a hash, eg "# Heading Text"
+- name the file so that it compiles in order

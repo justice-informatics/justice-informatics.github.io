@@ -1,0 +1,23 @@
+# Reading Notes {#readingnotes}
+
+Notes from readings.
+
+Prompting Questions:
+- What's going on here?
+- How is power at play?
+- How does this relate to informatics? Health?
+- How does this relate to our own research?
+
+
+## Data Feminism {#datafem}
+
+
+## Race After Technology {#raceaftertech}
+
+
+## Coded Bias {#codedbias}
+
+
+## Weapons of Math Destruction {#womd}
+
+
