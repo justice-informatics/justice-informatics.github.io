@@ -29,4 +29,4 @@ We want everyone to contribute to learning and growing in justice within informa
 
 3) Stage and commit your revisions/additions to your forked repository.
 
-4) Make a pull request [here](https://github.com/adriennepichon/DBMI_JusticeInformatics/pulls), comment on what your pull request is and why it adds to this website, and wait for an administrator to review and possibly accept your pull request.
+4) Make a pull request by clicking 'make a pull request' under the contributing button at your repository online, comment on what your pull request is and why it adds to this website, and wait for an administrator to review and possibly accept your pull request.
