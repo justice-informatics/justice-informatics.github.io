@@ -31,3 +31,5 @@ raceaftertech
 codedbias
 womd
 network-citational-justice
+introduction-and-chapter-1
+how-to-contribute
