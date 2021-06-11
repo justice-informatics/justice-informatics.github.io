@@ -12,4 +12,4 @@ agenda <- c("Social meeting", "Weapons of Math Destruction: Introduction & Ch 1"
 
 meeting_schedule <- data.frame(dates,agenda)
 
-knitr::kable( head(meeting_schedule, booktabs = TRUE)
+knitr::kable(meeting_schedule, booktabs = TRUE)
