@@ -1,6 +1,18 @@
 # Instructions for Contributors {#contribute}
 
-Here are the instructions for contributing to this resource. 
+## How to contribute
+
+We want everyone to contribute to learning and growing in justice within informatics, but at the same time we don't want our website to crash! Please follow the following instructions:
+
+1) Fork the repository to make a copy within your Github profile. The fork button is at the top right corner of this [webpage](https://github.com/adriennepichon/DBMI_JusticeInformatics).
+
+2) Clone and make any revisions/contributions you may like.
+
+3) Stage and commit your revisions/additions to your forked repository.
+
+4) Make a pull request by clicking 'make a pull request' under the contributing button at your repository online, comment on what your pull request is and why it adds to this website, and wait for an administrator to review and possibly accept your pull request.
+
+For contributing a new page: 
 
 - rmd file but without header content; starts with main heading with a hash, eg "# Heading Text"
 - name the file so that it compiles in order
