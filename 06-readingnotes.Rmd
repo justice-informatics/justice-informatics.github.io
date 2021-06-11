@@ -19,3 +19,4 @@ Prompting Questions:
 
 
 ## Weapons of Math Destruction {#womd}
+
