@@ -1,9 +1,15 @@
 # Meetings {#meetings}
 
-Meetings are currently: Fridays 10am ET
+Meetings are: Fridays 10am ET. We are currently reading *Weapons of Math Destruction* by Cathy O'Neil.
 
-Email to get the link to join.
+Join the **#justice_informatics** channel on the DBMI Students slack to recieve the link to join.
 
-We are reading: Weapons of Math Destruction
+## Summer 2021 Meeting Schedule
 
+dates <- as.Date(c("4/30/2021", "5/7/2021", "5/14/2021", "5/21/2021", "5/28/2021", "6/4/2021", "6/11/2021", "6/18/2021", "6/25/2021", "7/2/2021", "7/9/2021", "7/16/2021", "7/23/2021", "7/30/2021", "8/6/2021"))
 
+agenda <- c("Social meeting", "Weapons of Math Destruction: Introduction & Ch 1", "General Organization meeting - Adminstrative", "Weapons of Math Destruction: Ch 2 & Ch 3", "General Organization meeting - Website Development", "Weapons of Math Destruction: Ch 4 & Ch 5", "General Organization meeting - Website Development", "Weapons of Math Destruction: Ch 6 & Ch 7", "--", "Weapons of Math Destruction: Ch 8 & Ch 9", "--", "Weapons of Math Destruction: Ch 10 & Conclusion", "--", "--", "--")
+
+meeting_schedule <- data.frame(dates,agenda)
+
+knitr::kable( head(meeting_schedule, booktabs = TRUE)
