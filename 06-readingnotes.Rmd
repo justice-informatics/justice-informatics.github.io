@@ -19,26 +19,3 @@ Prompting Questions:
 
 
 ## Weapons of Math Destruction {#womd}
-
-### Introduction and Chapter 1
-
-Three categories to understand WMD
-Opacity
-Patients are more ok with not explainable AI because they want more accurate models and inherently trust these decisions.
-Clinicians get to decide if a model is used, but not patients. 
-FDA for CDS tools
-Intellectual property stops us from totally understanding these models.
-How can we incorporate opacity into model benchmarking for fairness?
-Gaming the system can be done with very transparent models
-Are these metrics capturing the right things? People shouldn’t have to feel like they have to game it.
-Scale
-Models blown up to larger contexts, and has more far reaching implications it can do more harm.
-Damage
-What are the negative impacts of this model?
-Inherent trust in the models can be detrimental
-Automation can help some people, but it can hurt poorer people
-Those people with no ability to escape the model
-Models can be helpful as long as they really are supplemental. 
-Research on when a variable (eg GPA) really is an indicator of poor performance later on?
-Someone who is working a lot with a low GPA could do very well once they no longer have to support their family.
-
