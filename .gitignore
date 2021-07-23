@@ -39,3 +39,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+
+
+# bookdown images created by build that are already included in docs html file so not needed
+_bookdown_files
