@@ -6,7 +6,7 @@ This repository serves as the website for the book club organized PhD students a
 
 ## Mission
 
-To catalogue our notes and thoughts from reading books on topics of justice in biomedical informatics
+To catalogue our notes and thoughts from reading books on topics of justice in biomedical informatics. The website can be found at [this](https://adriennepichon.github.io/DBMI_JusticeInformatics/) url: https://adriennepichon.github.io/DBMI_JusticeInformatics/
 
 ## How to View locally
 
