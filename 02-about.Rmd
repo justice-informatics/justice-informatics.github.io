@@ -1,11 +1,14 @@
 # About Our Group {#about}
 
 ## History
-The Justice Informatics Student Group was started by a group of PhD students at Columbia University's Department of Biomedical Informatics (DBMI) following the discussions in Summer 2020 about addressing racism in academia.
+The Justice Informatics Student Group was started by a group of PhD students at Columbia University's Department of Biomedical Informatics (DBMI) following the discussions in Summer 2020 about addressing racism in academia. Starting small, the group has organically grown by word of mouth among interested trainees. 
+
 
 
 ## Mission & Goals
+The Justice Informatics group was created as a space to explore the systems of oppression, exclusion, and privilege that play out in our lives as individuals, scientists, and academics. The goal of this group is to provide a space to understand the sociopolitical and historical context of our research and engage in conversations we might not otherwise make space to discuss. Our group expands traditionally academic discussions, affirming that there is power in building and acknowledging personal connections to the stories and experiences of others. We seek to apply these principles to our work in informatics. 
 
+Goals drafted here: https://docs.google.com/document/d/12c82FsDv-YkAl-uL_p75t11NdmhCR-STmM41b4F-b1k/edit?usp=sharing
 
 
 ## Group Structure

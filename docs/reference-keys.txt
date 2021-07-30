@@ -5,6 +5,11 @@ mission-goals
 group-structure
 contribute
 how-to-contribute
+formatting-for-contributions
+new-pages
+adding-citations
+getting-started-with-github
+contributors
 meetings
 summer-2021-meeting-schedule
 resources
