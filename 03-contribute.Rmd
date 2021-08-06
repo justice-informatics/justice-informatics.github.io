@@ -6,38 +6,60 @@ We want everyone to contribute to learning and growing in justice within informa
 
 1) Fork the repository to make a copy within your Github profile. The fork button is at the top right corner of this [webpage](https://github.com/adriennepichon/DBMI_JusticeInformatics).
 
+![](docs/imgs/about_to_fork.png)
+**Where to fork the repository**
+
+![](docs/imgs/forked.png)
+**Forked repository**
+
 2) Clone and make any revisions/contributions you may like.
 
-3) Stage and commit your revisions/additions to your forked repository.
+![](docs/imgs/about_to_clone.png)
+**Where to clone the repository**
 
-4) Make a pull request by clicking 'make a pull request' under the contributing button at your repository online, comment on what your pull request is and why it adds to this website, and wait for an administrator to review and possibly accept your pull request.
+![](docs/imgs/cloning.png)
+**Cloning the repository from the terminal**
+
+![](docs/imgs/knitting_locally.png)
+**Knitted local copy of website via RStudio**
+
+4) Stage and commit your revisions/additions to your forked repository.
+
+5) Make a pull request by clicking 'make a pull request' under the contributing button at your repository online, comment on what your pull request is and why it adds to this website, and wait for an administrator to review and possibly accept your pull request.
 
 *(Note, in the future we will push to a draft branch; but until we have a 'live' version of the site, we will only use the main branch.)*
 
 **For the website to be updated with new changes, the bookdown must be 'built' locally using R, and then the docs folder must be committed and pushed to the main branch.**
 
 ## Formatting for contributions
+
 ### New Pages
 For contributing a new page: 
 
-- rmd file but without header content; starts with main heading with a hash, eg "# Heading Text"
-- name the file so that it compiles in order (files compile alphanumerically)
+- Rmd file but without header content; starts with main heading with a hash, eg "# Heading Text"
+- Name the file so that it compiles in order (files compile alphanumerically)
 
 
 ### Adding Citations
+
 Add the reference to the book.bib file in BibLaTex format (can be set as export format in Zotero, then dragged to text file). Remove extra info (eg, abstract, url dates) so that the bib file stays clean and the reference prints neatly. Try to include a url so that people can jump to the resource on their own. 
 
 Using the name assigned in the bib file, add a citation in the text using \@name in square brackets, eg, `[@washington_medical_2008]`
 
 
 ### Getting Started with GitHub
+
 Here are some resources for getting started with using GitHub, and contributing to this repository: 
 
-(to be added)
+[Git book](https://git-scm.com/book/en/v2)
+
+[Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+[Data school youtube video - fork a repo](https://www.youtube.com/watch?v=f5grYMXbAV0)
 
 
 ## Contributors
 
 These students have created and maintain this website resource: 
 
-(to be added)
+[Nick Giangreco](https://github.com/ngiangre)
