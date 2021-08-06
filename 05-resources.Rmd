@@ -13,17 +13,18 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - Medical Apartheid: A Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present [@washington_medical_2008]
 - Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants [@kimmerer_braiding_2015]
 - The Hospital: Life, Death, and Dollars in a Small American Town [@alexander_hospital_2021]
-- The Allignment Problem [@christian_allignment_2020]
-- Indigenous Statistics: A Quantitative Research Methodology [@walter_anderson_indigenous_stats_2013]
+- The Alignment Problem [@christian_allignment_2020]
+- Indigenous Statistics: A Quantitative Research Methodology [@walter_indigenous_2016]
 - Ghost Work: How to Stop Silicon Valley from Building a Global Underclass [@gray_suri_ghost_2019]
 - The Age of Surveillance Capitalism [@zuboff_surveillance_2019]
-- Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech [@wachter-boettcher_sexist_2018]
+- Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech [@wachter_technically_2017]
 
 ## Podcasts, Videos, Online Talks
 
 - Coded Bias (documentary) [@codedbias_2020], notes in Ch \@ref(codedbias)
 - "Studying Those Who Study Us" (talk) [@tallbear_2020]
 - NYT Presents: Rabbit Hole (podcast) [@rabbit_hole_2020]
+- Health 2049 (podcast) [@health_2049]
 
 ## Academic Scholarship
 
