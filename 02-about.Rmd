@@ -12,6 +12,7 @@ Starting small, the group has organically grown by word of mouth among intereste
 The Justice Informatics group was created as a space to explore the systems of oppression, exclusion, and privilege that play out in our lives as individuals, scientists, and academics. The goal of this group is to provide a space to understand the sociopolitical and historical context of our research and engage in conversations we might not otherwise make space to discuss. Our group expands traditionally academic discussions, affirming that there is power in building and acknowledging personal connections to the stories and experiences of others. We seek to apply these principles to our work in informatics.
 
 The goals of this group are outline below.
+
 * Create a space for DBMI trainees to explore the sociopolitical and historical context of our research and engage in conversations we might not otherwise make space to discuss.
 * Allow for students to share, listen, and discuss their personal stories about being from marginalized communities while navigating academia.
 * Leave a legacy by creating notes and summaries of resources for future trainees and others to engage with.
