@@ -17,6 +17,7 @@ books
 podcasts-videos-online-talks
 academic-scholarship
 network-citational-justice
+other-links-to-outside-resources
 readingnotes
 datafem
 raceaftertech
