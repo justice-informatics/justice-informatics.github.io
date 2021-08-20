@@ -1,11 +1,29 @@
 # Readings & Resources {#resources}
 
+
+Next Book (Fall 2021) -- Options?
+
+- Medical Apartheid
+- The Alignment Problem
+- Atlas of AI
+
+
+
 ## Books
 Notes for books we have read can be found in Chapter \@ref(readingnotes).
 
 - Data Feminism [@dignazio_data_2020], notes in Ch \@ref(datafem)
+  * Author-led online reading group recordings and sketchnotes are a wonderful resource, [here](http://datafeminism.io/blog/book/data-feminism-reading-group/)
+  * Publications by book authors: [@dignazio_feminist_2016; @balaam_hacking_2017; @klein_seven_2020; @dignazio_feminist_2016; @garcia_no_2020]
+  * Feminist HCI: [@bardzell_feminist_2010; @bellini_feminist_2018]
+  * Relevant resources, including Data Justice
+  * Many of the resources included in our list below are cited in DataFem
+
 - Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019], notes in Ch \@ref(raceaftertech)
 - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy [@oneil_weapons_2016], notes in Ch \@ref(womd)
+
+
+Comprehensive list
 
 - Algorithms of Oppression: How Search Engines Reinforce Racism [@noble_algorithms_2018]
 - Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor [@eubanks_automating_2018]
@@ -19,6 +37,12 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - The Age of Surveillance Capitalism [@zuboff_surveillance_2019]
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech [@wachter_technically_2017]
 
+- Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021]
+
+
+
+
+
 ## Podcasts, Videos, Online Talks
 
 - Coded Bias (documentary) [@codedbias_2020], notes in Ch \@ref(codedbias)
@@ -26,11 +50,22 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - NYT Presents: Rabbit Hole (podcast) [@rabbit_hole_2020]
 - Health 2049 (podcast) [@health_2049]
 
+- Dr. Rita Charon, on the creation of the field of Narrative Medicine 
+- Infrastructures of technical systems, Atlas of AI/Kate Crawford: [here](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai/up-next) and [here](https://youtu.be/v8wi3ya-y3g)
+- AI and Society, Stewart Russell: [overview](https://www.youtube.com/watch?v=jmbfQ3mjHWI) and [3 principles for creating safer AI](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai/up-next)
+
+
+
+
 ## Academic Scholarship
 
 - "An actionable anti-racism plan for geoscience organizations". Ali et al., Nature 2021 [@ali_antiracism_2021]
 - "Embracing Four Tensions in Human-Computer Interaction Research with Marginalized People". Liang, Munson & Kientz, CHI 2021 [@liang_HCI_2021]
 - "Digital Phenotyping and Digital Psychotropic Drugs: Mental Health Surveillance Tools That Threaten Human Rights". Cosgrove et al., Health and Human Rights Journal 2020 [@cosgrove_phenotyping_drugs_2020]
+
+- article on mentors in academia
+
+
 
 ## Network & Citational Justice
 
