@@ -14,8 +14,13 @@ meetings
 summer-2021-meeting-schedule
 resources
 book-club-picks
-books
-podcasts-videos-online-talks
+comprehensive-list
+bias-eg-due-to-race-gender-technology
+data-science-society
+indigenous-knowledge
+injustice-in-medicine
+human-centered-storytelling
+higher-ed
 academic-scholarship
 network-citational-justice
 other-links-to-outside-resources

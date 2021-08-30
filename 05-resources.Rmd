@@ -13,8 +13,6 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - **Fall 2020.** Data Feminism [@dignazio_data_2020], notes in Ch \@ref(datafem)
   * *This was our first book as a group (we were inspired by the virtual reading group, linked below). We think it is a good read for anyone joining the group or just interested in reading about these topics.*
   * Recordings of the author-led online reading group and sketchnotes are a wonderful resource, [here](http://datafeminism.io/blog/book/data-feminism-reading-group/)
-  * Academic publications (journal articles) by book authors: [@dignazio_feminist_2016; @balaam_hacking_2017; @klein_seven_2020; @dignazio_feminist_2016; @garcia_no_2020]
-  * Feminist HCI: [@bardzell_feminist_2010; @bellini_feminist_2018]
   * Many of the resources included in our list below are cited in DataFem
 
 - **Spring 2021.** Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019], notes in Ch \@ref(raceaftertech)
@@ -27,44 +25,85 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - **Fall 2021 (current).** Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021], notes in Ch \@ref(aoa)
 
 
-## Books
+## Comprehensive List
 
+
+### Bias (eg, due to race, gender) + Technology
+
+- Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019]
 - Algorithms of Oppression: How Search Engines Reinforce Racism [@noble_algorithms_2018]
 - Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor [@eubanks_automating_2018]
 - Invisible Women: Exposing Data Bias in a World Designed for Men [@perez_invisible_2019]
-- Doing Harm
+- Doing Harm: The Truth About How Bad Medicine and Lazy Science Leave Women Dismissed, Misdiagnosed, and Sick [@dusenbery_doing_2018]
 
-
-
-- Indigenous Statistics: A Quantitative Research Methodology [@walter_indigenous_2016]
-- Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants [@kimmerer_braiding_2015]
-- The Hospital: Life, Death, and Dollars in a Small American Town [@alexander_hospital_2021]
-
-- Medical Apartheid: A Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present [@washington_medical_2008]
-
-- The Alignment Problem [@christian_allignment_2020]
-- Ghost Work: How to Stop Silicon Valley from Building a Global Underclass [@gray_suri_ghost_2019]
-- The Age of Surveillance Capitalism [@zuboff_surveillance_2019]
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech [@wachter_technically_2017]
-
-
 - Glitch Feminism [@russell_glitch_2020], [website](https://www.legacyrussell.com/GLITCHFEMINISM) also includes videos
 - Design Justice [@costanzachock_design_2020], and wonderful [website](https://designjustice.org/)
 
 
-
-## Podcasts, Videos, Online Talks
-
 - Coded Bias (documentary) [@codedbias_2020], notes in Ch \@ref(codedbias)
-- "Studying Those Who Study Us" (talk) [@tallbear_2020]
+
+- Mimi Onuoha (video) [How We Became Machine Readable](https://vimeo.com/233011125)
+
+
+### Data Science + Society
+
+- Data Feminism [@dignazio_data_2020]
+  * Academic publications (journal articles) by book authors: [@dignazio_feminist_2016; @balaam_hacking_2017; @klein_seven_2020; @dignazio_feminist_2016; @garcia_no_2020]
+  * Feminist HCI: [@bardzell_feminist_2010; @bellini_feminist_2018]
+  
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy [@oneil_weapons_2016]
+
+- Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021]
+  * [Kate Crawford](https://www.katecrawford.net/about.html) discussing infrastructures of technical systems: [here](https://www.youtube.com/watch?v=pRpSW6T_Wuo) and [here](https://youtu.be/v8wi3ya-y3g)
+  
+  
+- The Alignment Problem [@christian_allignment_2020]
+- Ghost Work: How to Stop Silicon Valley from Building a Global Underclass [@gray_suri_ghost_2019]
+- The Age of Surveillance Capitalism [@zuboff_surveillance_2019]
+
+
+
+- AI and Society (podcasts), [Stewart Russell](https://people.eecs.berkeley.edu/~russell/): [Have the Machines Taken Over?](https://www.youtube.com/watch?v=jmbfQ3mjHWI) and [3 Principles for Creating Safer AI](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai/up-next)
+
+
 - NYT Presents: Rabbit Hole (podcast) [@rabbit_hole_2020]
+  * About shaping, and being shaped, by the internet
 - Health 2049 (podcast) [@health_2049]
+  * About using storytelling and design strategy to address broad challenges in healthcare
+
+
+### Indigenous Knowledge
+
+- Indigenous Statistics: A Quantitative Research Methodology [@walter_indigenous_2016]
+- Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants [@kimmerer_braiding_2015]
+
+- "Studying Those Who Study Us" (talk) [@tallbear_2020]
+
+
+### (In)Justice in Medicine
+
+
+- The Hospital: Life, Death, and Dollars in a Small American Town [@alexander_hospital_2021]
+
+- Medical Apartheid: A Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present [@washington_medical_2008]
+
+
+
+### Human-Centered; Storytelling
+
 
 - Dr. Rita Charon, on the creation of the field of Narrative Medicine 
-- Infrastructures of technical systems, Atlas of AI/[Kate Crawford](https://www.katecrawford.net/about.html): [here](https://www.youtube.com/watch?v=pRpSW6T_Wuo) and [here](https://youtu.be/v8wi3ya-y3g)
-- AI and Society, [Stewart Russell](https://people.eecs.berkeley.edu/~russell/): [Have the Machines Taken Over?](https://www.youtube.com/watch?v=jmbfQ3mjHWI) and [3 Principles for Creating Safer AI](https://www.ted.com/talks/stuart_russell_3_principles_for_creating_safer_ai/up-next)
 
-- Mimi Onuoha, [How We Became Machine Readable](https://vimeo.com/233011125)
+
+### Higher Ed
+
+- Unequal expectations: First-generation and continuing-generation students’ anticipated relationships with doctoral advisors in STEM [@wofford_unequal_2021]
+- A Field Guide to Grad School: Uncovering the Hidden Curriculum [@calarco_field_2020]
+
+
+
+
 
 
 ## Academic Scholarship
@@ -73,8 +112,7 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 - "Embracing Four Tensions in Human-Computer Interaction Research with Marginalized People". Liang, Munson & Kientz, CHI 2021 [@liang_HCI_2021]
 - "Digital Phenotyping and Digital Psychotropic Drugs: Mental Health Surveillance Tools That Threaten Human Rights". Cosgrove et al., Health and Human Rights Journal 2020 [@cosgrove_phenotyping_drugs_2020]
 
-- Unequal expectations: First-generation and continuing-generation students’ anticipated relationships with doctoral advisors in STEM [@wofford_unequal_2021]
-- A Field Guide to Grad School: Uncovering the Hidden Curriculum [@calarco_field_2020]
+
 
 
 ## Network & Citational Justice
