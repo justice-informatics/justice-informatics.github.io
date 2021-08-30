@@ -1,32 +1,38 @@
 # Readings & Resources {#resources}
 
+This page is a collection of books, papers, presentations, podcasts, and links to other resources that trainees have compiled. They span a variety of topics, some more relevant than others. They are also for various audiences, some explicitly academic/scholarly and others written for a broad public audience. We collect foundational citations, current and interesting research, work from diverse researchers, and conversations around current events that relate to our discussions, training, and/or research. 
+Although we have collected these resources for our own use, we hope this page will be useful to others, and we encourage revisions and updates to this document. 
 
-Next Book (Fall 2021) -- Options?
-
-- Medical Apartheid
-- The Alignment Problem
-- Atlas of AI
+Next Book (Fall 2021) -- Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021], available for purchase [here](https://bookshop.org/books/atlas-of-ai-power-politics-and-the-planetary-costs-of-artificial-intelligence/9780300209570) or probably Amazon
 
 
+## Book Club Picks
 
-## Books
 Notes for books we have read can be found in Chapter \@ref(readingnotes).
 
-- Data Feminism [@dignazio_data_2020], notes in Ch \@ref(datafem)
-  * Author-led online reading group recordings and sketchnotes are a wonderful resource, [here](http://datafeminism.io/blog/book/data-feminism-reading-group/)
-  * Publications by book authors: [@dignazio_feminist_2016; @balaam_hacking_2017; @klein_seven_2020; @dignazio_feminist_2016; @garcia_no_2020]
+- **Fall 2020.** Data Feminism [@dignazio_data_2020], notes in Ch \@ref(datafem)
+  * *This was our first book as a group (we were inspired by the virtual reading group, linked below). We think it is a good read for anyone joining the group or just interested in reading about these topics.*
+  * Recordings of the author-led online reading group and sketchnotes are a wonderful resource, [here](http://datafeminism.io/blog/book/data-feminism-reading-group/)
+  * Academic publications (journal articles) by book authors: [@dignazio_feminist_2016; @balaam_hacking_2017; @klein_seven_2020; @dignazio_feminist_2016; @garcia_no_2020]
   * Feminist HCI: [@bardzell_feminist_2010; @bellini_feminist_2018]
   * Many of the resources included in our list below are cited in DataFem
 
-- Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019], notes in Ch \@ref(raceaftertech)
-- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy [@oneil_weapons_2016], notes in Ch \@ref(womd)
+- **Spring 2021.** Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019], notes in Ch \@ref(raceaftertech)
+  * *This book got us thinking about race in society and in technology.*
+  * Dr. Benjamin gave some wonderful keynote presentations as we were discussing the book
+
+- **Summer 2021.** Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy [@oneil_weapons_2016], notes in Ch \@ref(womd)
+  * *Although not directly addressing healthcare or informatics, this book provides an overview and framework of what can go wrong with mathmatical modeling, including devestating real-world implications. It is an enjoyable and accessible read for a non-technical audience.*
+
+- **Fall 2021 (current).** Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021], notes in Ch \@ref(aoa)
 
 
-Comprehensive list
+## Books
 
 - Algorithms of Oppression: How Search Engines Reinforce Racism [@noble_algorithms_2018]
 - Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor [@eubanks_automating_2018]
 - Invisible Women: Exposing Data Bias in a World Designed for Men [@perez_invisible_2019]
+- Doing Harm
 
 
 
@@ -41,7 +47,7 @@ Comprehensive list
 - The Age of Surveillance Capitalism [@zuboff_surveillance_2019]
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech [@wachter_technically_2017]
 
-- Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence [@crawford_atlas_2021]
+
 - Glitch Feminism [@russell_glitch_2020], [website](https://www.legacyrussell.com/GLITCHFEMINISM) also includes videos
 - Design Justice [@costanzachock_design_2020], and wonderful [website](https://designjustice.org/)
 
@@ -94,4 +100,11 @@ Comprehensive list
 - [Radical AI](https://radicalai.net/)
 - [Queer in AI](https://sites.google.com/view/queer-in-ai//)
 
+
+Columbia Resources 
+
 - [Columbia GSAS Diversity and Inclusion](https://gsas.columbia.edu/our-intellectual-community/diversity)
+- Student groups and support for BIPOC students/affiliates
+- Ombudsman etc
+
+

@@ -20,3 +20,20 @@ Prompting Questions:
 
 ## Weapons of Math Destruction {#womd}
 
+What makes a Weapon of Math Destructuion (WMD)?
+- Opacity
+- Damage
+- Scale
+
+Also, 
+- Proxies
+- No feedback to people or the model
+
+
+
+
+
+## Atlas of AI {#aoa}
+
+
+
