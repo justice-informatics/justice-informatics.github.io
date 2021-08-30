@@ -19,7 +19,7 @@ Notes for books we have read can be found in Chapter \@ref(readingnotes).
 
 - **Spring 2021.** Race After Technology: Abolitionist Tools for the New Jim Code [@benjamin_race_2019], notes in Ch \@ref(raceaftertech)
   * *This book got us thinking about race in society and in technology.*
-  * Dr. Benjamin gave some wonderful keynote presentations as we were discussing the book
+  * Dr. Benjamin gave some wonderful keynote presentations as we were discussing the book (eg, keynote presentations at AMIA 2020 and [CHI 2021](https://youtu.be/kDcz44ifdQw))
 
 - **Summer 2021.** Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy [@oneil_weapons_2016], notes in Ch \@ref(womd)
   * *Although not directly addressing healthcare or informatics, this book provides an overview and framework of what can go wrong with mathmatical modeling, including devestating real-world implications. It is an enjoyable and accessible read for a non-technical audience.*
