@@ -3,6 +3,7 @@
 Notes from readings.
 
 Prompting Questions:
+
 - What's going on here?
 - How is power at play?
 - How does this relate to informatics? Health?
@@ -10,6 +11,10 @@ Prompting Questions:
 
 
 ## Data Feminism {#datafem}
+
+Recordings of the author-led online reading group and sketchnotes are a wonderful resource, [here](http://datafeminism.io/blog/book/data-feminism-reading-group/)
+
+
 
 
 ## Race After Technology {#raceaftertech}
@@ -19,4 +24,25 @@ Prompting Questions:
 
 
 ## Weapons of Math Destruction {#womd}
+
+What makes a Weapon of Math Destructuion (WMD)?
+
+- Opacity
+- Damage
+- Scale
+
+Also, 
+
+- Proxies
+- No feedback to people or the model
+
+
+[Here](https://norcalbiostat.github.io/ADS/read/WMD_Discussion_Questions.html) is a chapter-by-chapter summary of the book. Discussion questions pulled from [here](https://bryanalexander.org/readings/reading-_weapons-of-math-destruction_-the-plan/). They also link to [these](https://arbitrarilyclose.com/2017/11/11/mtbos-book-club-weapons-of-math-destruction-by-cathy-oneil/) discussion questions. 
+
+[Here](https://medium.com/data-feminism/5-questions-on-data-justice-with-cathy-oneil-87f42355ce55) is a Q/A with the author Cathy O'Neil. 
+
+
+## Atlas of AI {#aoa}
+
+
 
