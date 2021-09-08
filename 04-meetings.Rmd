@@ -6,10 +6,12 @@ Join the **#justice_informatics** channel on the DBMI Students slack to recieve 
 
 ## Summer 2021 Meeting Schedule
 
-dates <- as.Date(c("4/30/2021", "5/7/2021", "5/14/2021", "5/21/2021", "5/28/2021", "6/4/2021", "6/11/2021", "6/18/2021", "6/25/2021", "7/2/2021", "7/9/2021", "7/16/2021", "7/23/2021", "7/30/2021", "8/6/2021"))
+```{r}
+dates <- as.Date(c("4/30/2021", "5/7/2021", "5/14/2021", "5/21/2021", "5/28/2021", "6/4/2021", "6/11/2021", "6/18/2021", "6/25/2021", "7/2/2021", "7/9/2021", "7/16/2021", "7/23/2021", "7/30/2021", "8/6/2021"),format="%m/%d/%Y")
 
 agenda <- c("Social meeting", "Weapons of Math Destruction: Introduction & Ch 1", "General Organization meeting - Adminstrative", "Weapons of Math Destruction: Ch 2 & Ch 3", "General Organization meeting - Website Development", "Weapons of Math Destruction: Ch 4 & Ch 5", "General Organization meeting - Website Development", "Weapons of Math Destruction: Ch 6 & Ch 7", "--", "Weapons of Math Destruction: Ch 8 & Ch 9", "--", "Weapons of Math Destruction: Ch 10 & Conclusion", "--", "--", "--")
 
 meeting_schedule <- data.frame(dates,agenda)
 
 knitr::kable(meeting_schedule, booktabs = TRUE)
+```

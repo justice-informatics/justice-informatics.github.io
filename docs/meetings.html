@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 4 Meetings | Justice Informatics Student Group</title>
   <meta name="description" content="Resources and documentation for the Columbia DBMI Justice Informatics Student Group." />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 4 Meetings | Justice Informatics Student Group" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Columbia University DBMI Students" />
 
 
-<meta name="date" content="2021-07-30" />
+<meta name="date" content="2021-09-08" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,8 +33,9 @@
   
 <link rel="prev" href="contribute.html"/>
 <link rel="next" href="resources.html"/>
-<script src="libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -50,8 +51,6 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
@@ -60,6 +59,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 pre.sourceCode { margin: 0; }
 @media screen {
@@ -200,10 +200,83 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Join the <strong>#justice_informatics</strong> channel on the DBMI Students slack to recieve the link to join.</p>
 <div id="summer-2021-meeting-schedule" class="section level2" number="4.1">
 <h2><span class="header-section-number">4.1</span> Summer 2021 Meeting Schedule</h2>
-<p>dates &lt;- as.Date(c(“4/30/2021”, “5/7/2021”, “5/14/2021”, “5/21/2021”, “5/28/2021”, “6/4/2021”, “6/11/2021”, “6/18/2021”, “6/25/2021”, “7/2/2021”, “7/9/2021”, “7/16/2021”, “7/23/2021”, “7/30/2021”, “8/6/2021”))</p>
-<p>agenda &lt;- c(“Social meeting”, “Weapons of Math Destruction: Introduction &amp; Ch 1”, “General Organization meeting - Adminstrative”, “Weapons of Math Destruction: Ch 2 &amp; Ch 3”, “General Organization meeting - Website Development”, “Weapons of Math Destruction: Ch 4 &amp; Ch 5”, “General Organization meeting - Website Development”, “Weapons of Math Destruction: Ch 6 &amp; Ch 7”, “–”, “Weapons of Math Destruction: Ch 8 &amp; Ch 9”, “–”, “Weapons of Math Destruction: Ch 10 &amp; Conclusion”, “–”, “–”, “–”)</p>
-<p>meeting_schedule &lt;- data.frame(dates,agenda)</p>
-<p>knitr::kable(meeting_schedule, booktabs = TRUE)</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="meetings.html#cb1-1" aria-hidden="true" tabindex="-1"></a>dates <span class="ot">&lt;-</span> <span class="fu">as.Date</span>(<span class="fu">c</span>(<span class="st">&quot;4/30/2021&quot;</span>, <span class="st">&quot;5/7/2021&quot;</span>, <span class="st">&quot;5/14/2021&quot;</span>, <span class="st">&quot;5/21/2021&quot;</span>, <span class="st">&quot;5/28/2021&quot;</span>, <span class="st">&quot;6/4/2021&quot;</span>, <span class="st">&quot;6/11/2021&quot;</span>, <span class="st">&quot;6/18/2021&quot;</span>, <span class="st">&quot;6/25/2021&quot;</span>, <span class="st">&quot;7/2/2021&quot;</span>, <span class="st">&quot;7/9/2021&quot;</span>, <span class="st">&quot;7/16/2021&quot;</span>, <span class="st">&quot;7/23/2021&quot;</span>, <span class="st">&quot;7/30/2021&quot;</span>, <span class="st">&quot;8/6/2021&quot;</span>),<span class="at">format=</span><span class="st">&quot;%m/%d/%Y&quot;</span>)</span>
+<span id="cb1-2"><a href="meetings.html#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="meetings.html#cb1-3" aria-hidden="true" tabindex="-1"></a>agenda <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">&quot;Social meeting&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Introduction &amp; Ch 1&quot;</span>, <span class="st">&quot;General Organization meeting - Adminstrative&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Ch 2 &amp; Ch 3&quot;</span>, <span class="st">&quot;General Organization meeting - Website Development&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Ch 4 &amp; Ch 5&quot;</span>, <span class="st">&quot;General Organization meeting - Website Development&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Ch 6 &amp; Ch 7&quot;</span>, <span class="st">&quot;--&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Ch 8 &amp; Ch 9&quot;</span>, <span class="st">&quot;--&quot;</span>, <span class="st">&quot;Weapons of Math Destruction: Ch 10 &amp; Conclusion&quot;</span>, <span class="st">&quot;--&quot;</span>, <span class="st">&quot;--&quot;</span>, <span class="st">&quot;--&quot;</span>)</span>
+<span id="cb1-4"><a href="meetings.html#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="meetings.html#cb1-5" aria-hidden="true" tabindex="-1"></a>meeting_schedule <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(dates,agenda)</span>
+<span id="cb1-6"><a href="meetings.html#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="meetings.html#cb1-7" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(meeting_schedule, <span class="at">booktabs =</span> <span class="cn">TRUE</span>)</span></code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">dates</th>
+<th align="left">agenda</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2021-04-30</td>
+<td align="left">Social meeting</td>
+</tr>
+<tr class="even">
+<td align="left">2021-05-07</td>
+<td align="left">Weapons of Math Destruction: Introduction &amp; Ch 1</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-05-14</td>
+<td align="left">General Organization meeting - Adminstrative</td>
+</tr>
+<tr class="even">
+<td align="left">2021-05-21</td>
+<td align="left">Weapons of Math Destruction: Ch 2 &amp; Ch 3</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-05-28</td>
+<td align="left">General Organization meeting - Website Development</td>
+</tr>
+<tr class="even">
+<td align="left">2021-06-04</td>
+<td align="left">Weapons of Math Destruction: Ch 4 &amp; Ch 5</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-06-11</td>
+<td align="left">General Organization meeting - Website Development</td>
+</tr>
+<tr class="even">
+<td align="left">2021-06-18</td>
+<td align="left">Weapons of Math Destruction: Ch 6 &amp; Ch 7</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-06-25</td>
+<td align="left">–</td>
+</tr>
+<tr class="even">
+<td align="left">2021-07-02</td>
+<td align="left">Weapons of Math Destruction: Ch 8 &amp; Ch 9</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-07-09</td>
+<td align="left">–</td>
+</tr>
+<tr class="even">
+<td align="left">2021-07-16</td>
+<td align="left">Weapons of Math Destruction: Ch 10 &amp; Conclusion</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-07-23</td>
+<td align="left">–</td>
+</tr>
+<tr class="even">
+<td align="left">2021-07-30</td>
+<td align="left">–</td>
+</tr>
+<tr class="odd">
+<td align="left">2021-08-06</td>
+<td align="left">–</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </div>
@@ -217,7 +290,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -257,6 +329,10 @@ gitbook.start({
 "text": null
 },
 "download": ["bookdown-justiceinformatics.pdf", "bookdown-justiceinformatics.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }
