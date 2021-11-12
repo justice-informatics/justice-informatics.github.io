@@ -4,7 +4,7 @@
 
 We want everyone to contribute to learning and growing in justice within informatics, but at the same time we don't want our website to crash! Please follow the following instructions:
 
-1) Fork the repository to make a copy within your Github profile. The fork button is at the top right corner of this [webpage](https://github.com/adriennepichon/DBMI_JusticeInformatics).
+1) Fork the repository to make a copy within your Github profile. The fork button is at the top right corner of this [webpage](https://github.com/justice-informatics/justice-informatics.github.io).
 
 ![](docs/imgs/about_to_fork.png)
 **Where to fork the repository**

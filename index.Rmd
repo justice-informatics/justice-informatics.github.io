@@ -1,5 +1,5 @@
 --- 
-title: "Justice Informatics Student Group"
+title: "Justice Informatics Group"
 author: "Columbia University DBMI Students"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,8 +8,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: adriennepichon/bookdown-JusticeInformatics
-description: "Resources and documentation for the Columbia DBMI Justice Informatics Student Group."
+github-repo: justice-informatics/justice-informatics.github.io
+description: "Resources and documentation for the Columbia DBMI Justice Informatics Group."
 ---
 
 
@@ -34,7 +34,7 @@ knitr::write_bib(c(
 
 # Overview
 
-The **Justice Informatics Student Group** was started by a group of PhD students at Columbia University's Department of Biomedical Informatics (DBMI) following the discussions in Summer 2020 about addressing racism in academia. _Details of the group's history, mission, and structure can be found in Chapter \@ref(about)._
+The **Justice Informatics Group** was started by a group of PhD students at Columbia University's Department of Biomedical Informatics (DBMI) following the discussions in Summer 2020 about addressing racism in academia. _Details of the group's history, mission, and structure can be found in Chapter \@ref(about)._
 
 Generally, the group selects one book to read each semester (Fall, Spring, Summer) that focuses on justice and technology, data, or research. Students meet weekly to discuss chapters and connect the readings to our own work in informatics and health, with a particular focus on feminist and anti-racist approaches. Faculty will be invited for a broad discussion of the book near the end of each semester.
 
