@@ -32,10 +32,10 @@ What makes a Weapon of Math Destructuion (WMD)?
 - Scale
 
 Also, 
-
 - Proxies
 - No feedback to people or the model
 
+[Here](https://docs.google.com/presentation/d/11DtrEzEce5jxgIQSnULlhtbVuCyxIVEiSqZcoc37pqs/edit?usp=sharing) are slides from our Join Forum Discussion with members of the Department of Biomedical Informatics at Columbia University Medical Center. They discuss insights from the book in relation to ongoing work in biomedical informatics. They also include reflections on open questions from breakout rooms with attendees.
 
 [Here](https://norcalbiostat.github.io/ADS/read/WMD_Discussion_Questions.html) is a chapter-by-chapter summary of the book. Discussion questions pulled from [here](https://bryanalexander.org/readings/reading-_weapons-of-math-destruction_-the-plan/). They also link to [these](https://arbitrarilyclose.com/2017/11/11/mtbos-book-club-weapons-of-math-destruction-by-cathy-oneil/) discussion questions. 
 
