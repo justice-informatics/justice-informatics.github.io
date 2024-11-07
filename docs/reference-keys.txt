@@ -30,7 +30,7 @@ raceaftertech
 codedbias
 womd
 nativeamericandna
-other
+external
 amia2024
 overview-and-activities-of-the-justice-informatics-collaborative
 significance-of-trainee-led-bottom-up-work

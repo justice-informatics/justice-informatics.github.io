@@ -1,33 +1,33 @@
 
 
-# Other Activities {#other}
+# External Activities {#external}
 
-Outside of the discussions described elsewhere, we have participated in and led other activities to promote justice within biomedical informatics. Some of them are listed here.
+Outside of the activities within the department we describe elsewhere, we have participated in and led activities outside the department. Some of them are listed here.
 
 
 ## AMIA 2024 Podium Talk {#amia2024}
 
-[Adrienne Pichon](https://www.linkedin.com/in/adriennepichon/) and [Chris Allsman](https://www.linkedin.com/in/christopher-allsman/) gave a talk at [AMIA 2024](https://www.amia.org/education-events/amia-2024-annual-symposium) during the session _S32: Health Equity Research - To Be Fair_, titled "A Broad Perspective on Justice-Oriented Research in Biomedical Informatics". This page reiterates the main points and provides links to resources - both those discussed in the talk and those that inspired our thinking in creating the talk.
+[Adrienne Pichon](https://www.linkedin.com/in/adriennepichon/) and [Chris Allsman](https://www.linkedin.com/in/christopher-allsman/) gave a talk at [AMIA 2024](https://www.amia.org/education-events/amia-2024-annual-symposium) titled "A Broad Perspective on Justice-Oriented Research in Biomedical Informatics". This page reiterates some main points and provides links to references and further reading.
 
 ### Overview and Activities of the Justice Informatics Collaborative
 
-See other pages on this website for a [history of our group](#about) and a [list of books we have read](#resources) as part of our efforts. We also highlighted some activities not yet described on this site, including our role as reviewers for [the AMIA Inclusive Language and Context Style Guidelines](https://amia.org/about-amia/diversity-equity-and-inclusion/amia-inclusive-language-and-context-style-guidelines), a workshop we held at AMIA 2022, and subsequent work (in review) analyzing principles for pursuing justice-oriented research from conversations held at that workshop.
+See other pages on this website for a [history of our group](#about) and a [list of books we have read](#resources) as part of our efforts. We also highlighted some activities not yet described on this site, including our role as reviewers for [the AMIA Inclusive Language and Context Style Guidelines](https://amia.org/about-amia/diversity-equity-and-inclusion/amia-inclusive-language-and-context-style-guidelines), a workshop we held at AMIA 2022, and subsequent work (in review) synthesizing principles for pursuing justice-oriented research.
 
-We additionally synthesized the [core values of our group](#mission-goals) as "humility + bravery + community".
+We additionally summarized the [core values of our group](#mission-goals) as "humility + bravery + community".
 
 ### Significance of Trainee-led, Bottom-Up Work
 
-We suggested that our group (and similar trainee-led groups) has unique strengths in promoting justice within biomedical informatics. In particular, it allows us to organically: 1) foreground trainee expertise in autonomy, 2) work across disciplines and institutions, 3) align academic work with trainee goals and values.
+We suggested that the model demonstrated by our group has unique strengths in promoting justice within biomedical informatics. In particular, it supports: 1) foregrounding trainee expertise and  autonomy, 2) working across disciplines and institutions, and 3) aligning academic work with trainee goals and values.
 
-The final point was described in the context of the theory of goal congruity. [@DIEKMAN2020189;@Diekman2010] give an overview of goal congruity, and [@Gautam2024-to; @Lewis2019-cm; @Griffin2020-ud] discuss how a lack of congruity harms diversity and retention for trainees and faculty. [@Clegg2024-lv] discusses the role of community and [@washington-2020] discusses the need for cultural competency to address related issues.
+The final point was described in the context of the theory of goal congruity. [@DIEKMAN2020189; @Diekman2010] give an overview of goal congruity, and [@Gautam2024-to; @Lewis2019-cm; @Griffin2020-ud] discuss how a lack of congruity harms diversity and retention. Similarly, [@Clegg2024-lv] discusses the role of community and [@washington-2020] discusses the need for cultural competency.
 
 ### Fostering an Environment for Justice-Oriented Work
 
-_For institutions_: see [@Marrero2013-mn; @marganalia-tenure] for a discussion of equitable practices for awarding tenure or allocating resources and [@statnewsHealthEquity; @ezell-2024; @hci-tensions-2021] for a description of how health equity research may be co-opted to further institutional goals without materially supporting the needs of individuals and communities under study.
+***For institutions***: See [@Marrero2013-mn; @marganalia-tenure] for a discussion of equitable practices for awarding tenure or allocating institutional resources. [@statnewsHealthEquity; @ezell-2024; @hci-tensions-2021] describes how health equity research may be co-opted to further institutional or researcher goals without materially supporting the needs of individuals and communities under study.
 
-_For educators and mentors_: [@cultural-humility] describes the concept of cultural humility and [@Murray2022-zy] discusses how to apply it in academic mentoring. There is a large and growing body of research on developing culturally responsive and justice-oriented curricula in biomedical and computing disciplines, including [@Yadav2022-vn; @Ambrose2014-ah; @lin-education-2022].
+***For educators and mentors***: [@cultural-humility] describes the concept of cultural humility and [@Murray2022-zy] discusses how to apply it in academic mentoring. There is a large body of literature on developing culturally responsive, justice-oriented curricula in biomedical and computing disciplines, including [@Yadav2022-vn; @Vakil2018-ix; @Ambrose2014-ah; @lin-education-2022].
 
-_For researchers and trainees_: See [here](#resources) for a long list of resources. A few other articles that specifically point to frameworks which may be useful to incorporate or gaps in how researchers conceptualize justice in biomedical informatics:
+***For researchers and trainees***: See [here](#resources) for a long list of resources. A few other articles that point to frameworks to incorporate in your research or gaps in how researchers often conceptualize justice in biomedical informatics:
 
 Indigenous Health Equity [@hawk-indigenous-equity]
 
