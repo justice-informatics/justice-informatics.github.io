@@ -29,5 +29,10 @@ datafem
 raceaftertech
 codedbias
 womd
-aoa
 nativeamericandna
+other
+amia2024
+overview-and-activities-of-the-justice-informatics-collaborative
+significance-of-trainee-led-bottom-up-work
+fostering-an-environment-for-justice-oriented-work
+references
